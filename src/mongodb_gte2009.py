@@ -71,3 +71,5 @@ companies_df3 = companies_df3.reset_index(drop=True)
 
 # export dataframe to json
 companies_df3.to_json('./mycompanies_clean.json', orient='records')
+
+print(companies_df3)
