@@ -1,4 +1,4 @@
-# project-mongodb-geopartial-queries
+# MongoDB and geopartial queries
 
 The aim of this project is to find the best location where our next office would be located.
 
